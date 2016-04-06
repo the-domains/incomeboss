@@ -1,0 +1,28 @@
+name: incomeboss
+favicon: null
+layout_spectrum: 0.9817883572541177
+typography_spectrum: 0.6161346826702356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17771974089555442
+  lightness: 0.4451826107688248
+  saturation: 0.5572257067542523
+  rhythmicContrast: 0.8073512865230441
+purpose: []
