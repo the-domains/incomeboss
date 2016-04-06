@@ -2,6 +2,7 @@ name: incomeboss
 favicon: null
 layout_spectrum: 0.9817883572541177
 typography_spectrum: 0.6161346826702356
+title: seogame
 cta:
   domain: null
   bucket: null
