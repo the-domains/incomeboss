@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Positivity said: ↑Really appreciate your input.+++++++++++++++++I hate to say this, but you'll never get out of your day job with this mentality. You just won't. 5 years will pass, then 10, then 20, then 40, then next thing you know you'll be having your first grandkid and think back... and you'll recall this conversation. Then and only then will you know deep down inside whether you chose the right path in your life."
-datePublished: '2016-04-07T02:06:10.461Z'
-dateModified: '2016-04-07T02:05:13.842Z'
+datePublished: '2016-04-07T02:24:14.270Z'
+dateModified: '2016-04-07T02:23:46.935Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-positivity-said-really-appreciate-your-input.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-positivity-said-really-appreciate-your-input.md
-published: true
 url: positivity-said-really-appreciate-your-input/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bffc675-e7d1-4219-a4c0-3f3edc57d47c.gif)
+
 Positivity said: ↑  
 Really appreciate your input.  
 +++++++++++++++++  
