@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Google Partners platform allows individuals to become certified, recognizes excelling companies and helps businesses find digital marketers. Since 2013, the platform has been slowly rolling out the Google AdWords and Analytics exams to digital marketers. The latest AdWords examination certification added was the mobile advertising certification in July.'
-datePublished: '2016-04-07T02:13:43.324Z'
-dateModified: '2016-04-07T02:13:26.675Z'
+datePublished: '2016-04-07T02:22:05.589Z'
+dateModified: '2016-04-07T02:21:35.273Z'
 title: How to Pass the Google Partners Certifications
 author: []
 authors: []
@@ -63,7 +63,6 @@ It is a teacher tip, but you should always read every question more than once to
 The exams have a few trick questions. There may be many good answers to the questions, but you should answer with the_best_answer available.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d07f48-172f-47b1-b6fe-936816421804.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0677e888-7380-4fca-b6da-aaf2a29fa95e.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e006003c-7b9e-48af-b8c2-84b2a2b47448.gif)
 
 [0]: https://support.google.com/partners/topic/3204437?hl=en&ref_topic=3111012
 [1]: https://support.google.com/partners/topic/6083717
